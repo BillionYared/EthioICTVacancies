@@ -1,5 +1,95 @@
 [
   {
+    "title": "Internship / Volunteer / Student Opportunities - City of Columbia Missouri",
+    "url": "https://www.como.gov/health/about-us/internship/",
+    "snippet": "Pay General Billing, Dumpsters, Home Energy Loans, Special Assessments. Pay Traffic/Parking Ticket Online. Pay Invoice. Get …",
+    "source": "como.gov",
+    "query": "site:jobs.au.int internship ICT",
+    "score": 20,
+    "uid": "4133b13b19fc57adebdd",
+    "first_seen": "2026-09-07T16:30:49.085503+00:00"
+  },
+  {
+    "title": "Internship Intern Jobs , Employment in Columbia , MO | Indeed",
+    "url": "https://www.indeed.com/q-Internship-Intern-l-Columbia,-MO-jobs.html",
+    "snippet": "Public Finance/Data Science Intern (Temporary - Part time) City of Columbia, MO. Columbia, MO. $18 - $20 an hour. Temporary. …",
+    "source": "indeed.com",
+    "query": "site:jobs.au.int internship ICT",
+    "score": 15,
+    "uid": "3f1f4b09b35848622b6e",
+    "first_seen": "2026-09-07T16:30:49.085503+00:00"
+  },
+  {
+    "title": "75 Internship Jobs , Employment in Columbia, MO | Indeed",
+    "url": "https://www.indeed.com/q-Internship-l-Columbia,-MO-jobs.html",
+    "snippet": "82 Internship jobs available in Columbia, MO on Indeed.com. Apply to Intern, Human Resources Intern, Construction Project …",
+    "source": "indeed.com",
+    "query": "site:jobs.au.int internship ICT",
+    "score": 15,
+    "uid": "5a6c262e686f7af83505",
+    "first_seen": "2026-09-07T16:30:49.085503+00:00"
+  },
+  {
+    "title": "Internships - Career Center",
+    "url": "https://career.missouri.edu/jobs-and-internships/internships/",
+    "snippet": "Aug 27, 2026 · Employers use internships as a way to identify and evaluate potential candidates for professional positions. …",
+    "source": "career.missouri.edu",
+    "query": "site:jobs.au.int internship ICT",
+    "score": 15,
+    "uid": "f62ca4ffd8ac15c634dc",
+    "first_seen": "2026-09-07T16:30:49.085503+00:00"
+  },
+  {
+    "title": "65 internship Jobs in Columbia , MO , September 2026 | Glassdoor",
+    "url": "https://www.glassdoor.com/Job/columbia-internship-jobs-SRCH_IL.0,8_IC1130886_KO9,19.htm",
+    "snippet": "Search Internship jobs in Columbia, MO with company ratings & salaries. 65 open jobs for Internship in Columbia.",
+    "source": "glassdoor.com",
+    "query": "site:jobs.au.int internship ICT",
+    "score": 15,
+    "uid": "2ed80781c0480fa37d72",
+    "first_seen": "2026-09-07T16:30:49.085503+00:00"
+  },
+  {
+    "title": "Counseling Internships in Columbia & Jefferson City, MO",
+    "url": "https://thecounselinghub.com/internships-field-placements",
+    "snippet": "Join our counseling internship program in Columbia & Jefferson City, MO. Gain real experience, practical skills & supervised field …",
+    "source": "thecounselinghub.com",
+    "query": "site:jobs.au.int internship ICT",
+    "score": 15,
+    "uid": "4ed4f2bfb06b10402c96",
+    "first_seen": "2026-09-07T16:30:49.085503+00:00"
+  },
+  {
+    "title": "Top 61 Internship Jobs in Columbia , Mo | SimplyHired",
+    "url": "https://www.simplyhired.com/search?q=internship&l=columbia%2c%20mo",
+    "snippet": "61 Internship jobs available in Columbia, Mo. See salaries, compare reviews, easily apply, and get hired. New Internship careers in …",
+    "source": "simplyhired.com",
+    "query": "site:jobs.au.int internship ICT",
+    "score": 15,
+    "uid": "73fc5f4e58ff6067a719",
+    "first_seen": "2026-09-07T16:30:49.085503+00:00"
+  },
+  {
+    "title": "Intern Jobs in Columbia (72 Open Roles) | LinkedIn",
+    "url": "https://www.linkedin.com/jobs/intern-jobs-columbia-missouri",
+    "snippet": "72Intern Jobs in Columbia. Pharmacy Intern . Pharmacy Intern . Walgreens . Columbia, MO .",
+    "source": "linkedin.com",
+    "query": "site:jobs.au.int internship ICT",
+    "score": 13,
+    "uid": "a4cd5180c05bae1a899f",
+    "first_seen": "2026-09-07T16:30:49.085503+00:00"
+  },
+  {
+    "title": "Vacancies with UNICEF Addis Ababa | UNjobs",
+    "url": "https://unjobs.org/offices/unicef_add",
+    "snippet": "16 hours ago · Senior Economic and Public Finance National/International Consultant: Debt and Social Sector Financing, Addis Ababa, Ethiopia UNICEF - United Nations Children's Fund Updated: 2026-08-26T04:47:20Z Disability Specialist, Addis Ababa, Ethiopia",
+    "source": "unjobs.org",
+    "query": "site:unjobs.org Ethiopia ICT intern",
+    "score": 12,
+    "uid": "6d789cbc04c6e21272f3",
+    "first_seen": "2026-09-07T16:30:49.085503+00:00"
+  },
+  {
     "title": "United Nations (UN) Internship Vacancy 2026 | 2 Positions ...",
     "url": "https://habeshajobs.com/job/united-nations-un-internship-vacancy-2026-2-positions-addis-ababa-13384",
     "snippet": "Aug 28, 2026 · The United Nations (UN) invites qualified graduate students and recent graduates to apply for two internship positions at the Office of the Special Envoy of the Secretary-General for the Great Lakes Region in Addis Ababa , Ethiopia.",
