@@ -112,9 +112,4 @@ Edit `app/config.py`:
 - GitHub Actions is not an always-on Telegram command bot.
 - The bot does not apply for jobs automatically.
 
-## Recommended future upgrades
 
-- Add an admin approval queue before publishing to a public channel.
-- Add a small web dashboard.
-- Add source-specific parsers for organizations that post frequently.
-- Add subscriber preferences by skill and location using a hosted database.
